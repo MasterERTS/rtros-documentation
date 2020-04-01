@@ -1,2 +1,2 @@
-# projects-management
-Second term project management repo
+Second term project management repository.
+No code lives there.
