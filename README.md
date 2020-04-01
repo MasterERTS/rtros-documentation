@@ -1,1 +1,1 @@
-RT-ROS project management and organization repository. No code lives there.
+RT-ROS general project management and organization repository. No code lives there.
