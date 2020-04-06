@@ -1,29 +1,20 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<br />
 <p align="center">
-  <a href="https://github.com/sampreets3/rtros-management>
-    <img src="imgs/ros-logo.png" alt="Logo" width="250" height="100">                                                           
-  </a>
+  <img width="460" height="300" src="imgs/ros-logo.png">
+</p>
 
-  <h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
+<h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
 
-  <p align="center">
-    Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai
-    <br />
-    <a href="https://github.com/master-coro/cv-object-tracking"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/sampreets3/rtros-management">View Demo</a>
-    ·
-    <a href="https://github.com/sampreets3/rtros-management">Report Bug</a>
-    ·
-    <a href="https://github.com/sampreets3/rtros-management">Request Feature</a>
-  </p>
+<p align="center">
+  Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai
+  <br />
+  <a href="https://github.com/sampreets3/rtros-management"><strong>Explore the docs »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/sampreets3/rtros-management">View Demo</a>
+  ·
+  <a href="https://github.com/sampreets3/rtros-management">Report Bug</a>
+  ·
+  <a href="https://github.com/sampreets3/rtros-management">Request Feature</a>
 </p>
 
 ---
@@ -73,5 +64,5 @@ This is also a test phrase. To be removed later.
 
 ### Contributors:
 
-1. **Sampreet Sarkar** `sampreet.sarkar@eleves.ec-nantes.fr`
 1. **Erwin Lejeune** `erwin.lejeune@eleves.ec-nantes.fr`
+1. **Sampreet Sarkar** `sampreet.sarkar@eleves.ec-nantes.fr`
