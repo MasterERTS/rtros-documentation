@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="imgs/ros-logo.png">
+  <img width="230" height="150" src="imgs/ros-logo.png">
 </p>
 
 <h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
@@ -40,6 +40,8 @@ The aim of the project is to determine  how real-time capabilities can be brough
 
 ### Existing Real-Time Extensions for ROS:
 This is heading 1, this is just to check if things are working or not
+
+See [here](https://www.sampreets3.github.io/rtros-management/imgs/tut1.md)
 
 ---
 
