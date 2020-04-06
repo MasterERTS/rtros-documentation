@@ -1,4 +1,45 @@
-## Bringing Real-Time Capabilities to ROS
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<br />
+<p align="center">
+  <a href="https://github.com/sampreets3/rtros-management>
+    <img src="imgs/ros-logo.png" alt="Logo" width="250" height="100">                                                           
+  </a>
+
+  <h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
+
+  <p align="center">
+    Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai
+    <br />
+    <a href="https://github.com/master-coro/cv-object-tracking"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/sampreets3/rtros-management">View Demo</a>
+    ·
+    <a href="https://github.com/sampreets3/rtros-management">Report Bug</a>
+    ·
+    <a href="https://github.com/sampreets3/rtros-management">Request Feature</a>
+  </p>
+</p>
+
+---
+### Table of Contents:
+
+* [About the Project](#about-the-project)
+* [Existing Real-Time Extensions for ROS](#existing-real-time-extensions-for-ros)
+* [Configuration of the system to run ROS + Linux/Xenomai](#configuration-of-a-system-to-run-ros--linuxxenomai)
+* [DEveloping an Application using Real-Time ROS Nodes](#developing-an-application-using-real-time-ros-nodes)
+* [Supervisors](#supervisors)
+* [Contributors](#contributors)
+
+
+---
+
+### About the Project:
 
 __ROS__ *(Robot Operating System)* is a software environment *(i.e., middleware)* providing a set of tools to connect multiple parts of a robotic setup. It offers nice features to interface with a wide range of sensors and actuators. However, it does not natively provide any strict real-time guarantees. Yet, many modern-day robots have a strong need to achieve a deterministic, time-bounded behaviour *(e.g., mobile robot collision avoidance)*.
 
@@ -20,6 +61,8 @@ This is another heading, to verify whether this is all working.
 ### Developing an application using real-time ROS Nodes:
 
 This is also a test phrase. To be removed later.
+
+---
 
 ### Supervisors:
 
