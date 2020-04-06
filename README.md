@@ -15,5 +15,5 @@ This is another heading, to verify whether this is all working.
 
 ### Contributors:
 
-1. Sampreet Sarkar `sampreet.sarkar@eleves.ec-nantes.fr`
-1. Erwin Lejeune `erwin.lejeune@eleves.ec-nantes.fr`
+1. **Sampreet Sarkar** `sampreet.sarkar@eleves.ec-nantes.fr`
+1. **Erwin Lejeune** `erwin.lejeune@eleves.ec-nantes.fr`
