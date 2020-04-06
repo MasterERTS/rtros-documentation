@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="200" height="150" src="imgs/ros-logo.png">
+  <img width="120" height="60" src="imgs/ros-logo.png">
 </p>
 
 <h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
 
 <p align="center">
-  Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai
+  Exploring the options on how to implement a real-time ROS Node using **ROS + Linux/Xenomai**
   <br />
   <a href="https://github.com/sampreets3/rtros-management"><strong>Explore the docs »</strong></a>
   <br />
@@ -41,8 +41,6 @@ The aim of the project is to determine  how real-time capabilities can be brough
 ### Existing Real-Time Extensions for ROS:
 This is heading 1, this is just to check if things are working or not
 
-See [here](https://www.sampreets3.github.io/rtros-management/imgs/tut1.md)
-
 ---
 
 ### Configuration of a System to run ROS + Linux/Xenomai:
@@ -59,8 +57,8 @@ This is also a test phrase. To be removed later.
 
 ### Supervisors:
 
-1. Prof. Audrey Queudet
-1. Prof. Vincent Lebastard
+1. **Prof. Audrey Queudet**
+1. **Prof. Vincent Lebastard**
 
 ---
 
