@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="120" height="60" src="imgs/ros-logo.png">
+  <img width="120" height="70" src="imgs/ros-logo.png">
 </p>
 
 <h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
 
 <p align="center">
-  Exploring the options on how to implement a real-time ROS Node using **ROS + Linux/Xenomai**
+  Exploring the options on how to implement a real-time ROS Node using <b>ROS + Linux/Xenomai</b>
   <br />
   <a href="https://github.com/sampreets3/rtros-management"><strong>Explore the docs »</strong></a>
   <br />
