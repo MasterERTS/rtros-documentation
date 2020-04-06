@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="230" height="150" src="imgs/ros-logo.png">
+  <img width="200" height="150" src="imgs/ros-logo.png">
 </p>
 
 <h2 align="center">Bringing Real-Time Capabilities to ROS</h2>
