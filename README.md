@@ -70,7 +70,6 @@ This is also a test phrase. To be removed later.
 ---
 
 ### References:
-s
-  1. [_Wei Hongxing, Shao Zhenzhou, Huang Zhen, Chen Rennaim Guan Yong, Tan Jindong, Shao Zili(2015)."RT ROS: A real-time ROS architechture on multi-core processors"](https://www.researchgate.net/publication/278051082_RT-ROS_A_real-time_ROS_architecture_on_multi-core_processors)
+  1. [*Wei Hongxing, Shao Zhenzhou, Huang Zhen, Chen Rennaim Guan Yong, Tan Jindong, Shao Zili(2015)."RT ROS: A real-time ROS architechture on multi-core processors"*](https://www.researchgate.net/publication/278051082_RT-ROS_A_real-time_ROS_architecture_on_multi-core_processors)
 
-  1. [Delgado Raimarius, You Bum-Jae, Choi Byoungwook. (2019). "Real-time Control Architecture Based on Xenomai Using ROS Packages for a Service Robot. Journal of Systems and Software." ](https://www.researchgate.net/publication/330624936_Real-time_Control_Architecture_Based_on_Xenomai_Using_ROS_Packages_for_a_Service_Robot)
+  1. [*Delgado Raimarius, You Bum-Jae, Choi Byoungwook. (2019). "Real-time Control Architecture Based on Xenomai Using ROS Packages for a Service Robot. Journal of Systems and Software."*](https://www.researchgate.net/publication/330624936_Real-time_Control_Architecture_Based_on_Xenomai_Using_ROS_Packages_for_a_Service_Robot)
