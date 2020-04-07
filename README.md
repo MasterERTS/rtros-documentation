@@ -12,9 +12,9 @@
   <br />
   <a href="https://github.com/sampreets3/rtros-management">View Demo</a>
   ·
-  <a href="https://github.com/sampreets3/rtros-management">Report Bug</a>
+  <a href="https://github.com/sampreets3/rtros-management/issues">Report Bug</a>
   ·
-  <a href="https://github.com/sampreets3/rtros-management">Request Feature</a>
+  <a href="https://github.com/sampreets3/rtros-management/issues/new">Request Feature</a>
 </p>
 
 ---
@@ -57,12 +57,20 @@ This is also a test phrase. To be removed later.
 
 ### Supervisors:
 
-1. **Prof. Audrey Queudet**
-1. **Prof. Vincent Lebastard**
+* **Prof. Audrey Queudet**
+* **Prof. Vincent Lebastard**
 
 ---
 
 ### Contributors:
 
-1. **Erwin Lejeune** `erwin.lejeune@eleves.ec-nantes.fr`
-1. **Sampreet Sarkar** `sampreet.sarkar@eleves.ec-nantes.fr`
+* **Sampreet Sarkar** `sampreet.sarkar@eleves.ec-nantes.fr`
+* **Erwin Lejeune** `erwin.lejeune@eleves.ec-nantes.fr`
+
+---
+
+### References:
+s
+  1. [_Wei Hongxing, Shao Zhenzhou, Huang Zhen, Chen Rennaim Guan Yong, Tan Jindong, Shao Zili(2015)."RT ROS: A real-time ROS architechture on multi-core processors"](https://www.researchgate.net/publication/278051082_RT-ROS_A_real-time_ROS_architecture_on_multi-core_processors)
+
+  1. [Delgado Raimarius, You Bum-Jae, Choi Byoungwook. (2019). "Real-time Control Architecture Based on Xenomai Using ROS Packages for a Service Robot. Journal of Systems and Software." ](https://www.researchgate.net/publication/330624936_Real-time_Control_Architecture_Based_on_Xenomai_Using_ROS_Packages_for_a_Service_Robot)
