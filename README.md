@@ -7,14 +7,14 @@
 <p align="center">
   Exploring the options on how to implement a real-time ROS Node using <b>ROS + Linux/Xenomai</b>
   <br />
-  <a href="https://github.com/sampreets3/rtros-management"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/master-coro/rtros-management"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/sampreets3/rtros-management">View Demo</a>
+  <a href="https://rtros-management.github.io">View Demo</a>
   ·
-  <a href="https://github.com/sampreets3/rtros-management/issues">Report Bug</a>
+  <a href="https://github.com/master-coro/rtros-management/issues">Report Bug</a>
   ·
-  <a href="https://github.com/sampreets3/rtros-management/issues/new">Request Feature</a>
+  <a href="https://github.com/master-coro/rtros-management/issues/new">Request Feature</a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 * [About the Project](#about-the-project)
 * [Existing Real-Time Extensions for ROS](#existing-real-time-extensions-for-ros)
 * [Configuration of the system to run ROS + Linux/Xenomai](#configuration-of-a-system-to-run-ros--linuxxenomai)
-* [DEveloping an Application using Real-Time ROS Nodes](#developing-an-application-using-real-time-ros-nodes)
+* [Developing an Application using Real-Time ROS Nodes](#developing-an-application-using-real-time-ros-nodes)
 * [Supervisors](#supervisors)
 * [Contributors](#contributors)
 
