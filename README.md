@@ -10,7 +10,7 @@
   <a href="https://github.com/master-coro/rtros-management"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://rtros-management.github.io">View Demo</a>
+  <a href="https://master-coro.github.io/rtros-management/">View Demo</a>
   ·
   <a href="https://github.com/master-coro/rtros-management/issues">Report Bug</a>
   ·
