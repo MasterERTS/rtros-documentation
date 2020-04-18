@@ -13,6 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
+     <p><h1>Real-Time Capabilities with ROS</h1></p>
      <p>An academic project from Ecole Centrale de Nantes by Sampreet Sarkar and Erwin Lejeune.</p>
   header_text_feature_image:
   footer_text: >
