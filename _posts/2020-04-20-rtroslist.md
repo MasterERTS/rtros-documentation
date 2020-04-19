@@ -27,3 +27,4 @@ It has been designed so researchers/Phd Students/Engineers at ISIR can develop g
 * Bug / feature tracker: None
 * Source: https://github.com/orocos/rtt_ros_control.git
 
+* Additional Infos : [Rock Core](https://github.com/rock-core) may be using the package. Need to investigate.
