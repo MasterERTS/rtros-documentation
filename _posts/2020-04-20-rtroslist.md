@@ -3,6 +3,8 @@ layout: post
 title: A Real-Time ROS Currated List
 ---
 
+A good way to start a project is doing a state-of-the-art. Here, we decided to go for a currated list of ROS packages that have real-time features, whether soft, firm or hard. We will not list the ROS2 packages with real-time features, since ROS2 was meant to have at least soft real-time capabilities from day one.
+
 ## [realtime_tools](http://wiki.ros.org/realtime_tools)
 
 Contains a set of tools that can be used from a hard realtime thread, without breaking the realtime behavior.
