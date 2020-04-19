@@ -1,35 +1,32 @@
 # SITE CONFIGURATION
-baseurl: "/rtros-documentation"
-url: "https://master-coro.github.io/"
+baseurl: "/rtros-documentation" # the subpath of your site, e.g. /blog/
+url: "https://master-coro.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Bring Real-Time Capabilites to ROS
-  avatar:
-  favicon: assets/favicon.ico
+  title: ROS and Real-Time Capabilities
+  avatar: 
   gravatar: # Email MD5 hash
-  description: "Real-Time ROS documentation and projects" # used by search engines
+  description: "A website dedicated to our academic project" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p><h1>Real-Time Capabilities with ROS</h1></p>
+     <h1>Bringing Real-Time Capabilities to ROS.</h1>
      <p>An academic project from Ecole Centrale de Nantes by Sampreet Sarkar and Erwin Lejeune.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: git.erts@gmail.com
+  email_address: "git.erts@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble:
-  facebook:
+  dribbble: 
+  facebook: 
   flickr:
-  gitlab:
   github: "master-coro"
-  gitter:
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -47,38 +44,31 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
+  str_next: "Next"
+  str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
-  str_search_no_results: "No results found."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
-  # Post navigation
-  post_navigation: false
-
 # PAGINATION
 paginate: 5
 paginate_path: "blog/page:num"
 
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
-exclude:
-  - Gemfile
-  - Gemfile.lock

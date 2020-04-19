@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bring Real-Time Capabilites to ROS</title>
-    <atom:link href="/rtros-documentation/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>ROS and Real-Time Capabilities</title>
+    <atom:link href="http://localhost:4000/rtros-documentation/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/rtros-documentation/</link>
-    <description>Real-Time ROS documentation and projects</description>
-    <pubDate>Sun, 19 Apr 2020 01:15:04 +0200</pubDate>
+    <description>A website dedicated to our academic project</description>
+    <pubDate>Sun, 19 Apr 2020 14:27:26 +0200</pubDate>
     
       <item>
         <title>How to build a website just like this one ?</title>
-        <link>/rtros-documentation/2020/04/19/website.html</link>
-        <guid isPermaLink="true">/rtros-documentation/2020/04/19/website.html</guid>
+        <link>http://localhost:4000/rtros-documentation/2020/04/19/website.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rtros-documentation/2020/04/19/website.html</guid>
         <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
 
 &lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
@@ -63,8 +63,8 @@
     
       <item>
         <title>Xenomai Installation</title>
-        <link>/rtros-documentation/2020/04/18/xenomai.html</link>
-        <guid isPermaLink="true">/rtros-documentation/2020/04/18/xenomai.html</guid>
+        <link>http://localhost:4000/rtros-documentation/2020/04/18/xenomai.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rtros-documentation/2020/04/18/xenomai.html</guid>
         <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
 
 &lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
@@ -117,8 +117,8 @@
     
       <item>
         <title>Robot Operating System</title>
-        <link>/rtros-documentation/2020/04/17/ros.html</link>
-        <guid isPermaLink="true">/rtros-documentation/2020/04/17/ros.html</guid>
+        <link>http://localhost:4000/rtros-documentation/2020/04/17/ros.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rtros-documentation/2020/04/17/ros.html</guid>
         <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
 
 &lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
@@ -171,8 +171,8 @@
     
       <item>
         <title>Project Overview</title>
-        <link>/rtros-documentation/2020/04/16/project.html</link>
-        <guid isPermaLink="true">/rtros-documentation/2020/04/16/project.html</guid>
+        <link>http://localhost:4000/rtros-documentation/2020/04/16/project.html</link>
+        <guid isPermaLink="true">http://localhost:4000/rtros-documentation/2020/04/16/project.html</guid>
         <description>&lt;p&gt;This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>

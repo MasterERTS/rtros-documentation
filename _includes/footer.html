@@ -1,6 +1,4 @@
-{% if site.theme_settings.katex and page.id %}
-<script src="{{ "/assets/js/katex_init.js" | relative_url }}"></script>
-{% endif %}
+<script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">

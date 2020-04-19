@@ -12,11 +12,12 @@
 .call-out p:last-child {
   margin-bottom: 0;
 }
-.call-out a {
-  color: $header-desc-link-color
-}
 // Post listing
 .posts {
+  h2 {
+    padding:5% 20% 0%;
+    text-align: center;
+  }
   .post-teaser {
     @extend %padding-regular;
     width: 100%;
@@ -24,8 +25,8 @@
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
-    p a {
-      @extend .body-link;
+    p a:hover {
+      @extend %link-hover;
     }
   }
   .excerpt {
@@ -33,6 +34,28 @@
   }
 }
 
+// Work listing
+.work {
+  h2 {
+    text-align: center;
+  }
+  @extend %padding-regular;
+  background-size: $feature-image-size;
+  border-bottom: 1px solid $border-color;
+  li {
+    width: 32%;
+    margin-right:0.5%;
+    margin-left:0.5%;
+    margin-bottom: 0;
+    display: inline-block;
+    p a:hover {
+      @extend %link-hover;
+    }
+  }
+  .excerpt {
+    margin-top: 1em;
+  }
+}
 // Pagination
 .pagination .button {
   margin: 0 1.5em;
@@ -43,7 +66,4 @@
 .pagination {
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
-  @media (max-width: 600px) {
-    padding: $padding-small;
-  }
 }
