@@ -28,3 +28,7 @@ It has been designed so researchers/Phd Students/Engineers at ISIR can develop g
 * Source: https://github.com/orocos/rtt_ros_control.git
 
 * Additional Infos : [Rock Core](https://github.com/rock-core) may be using the package. Need to investigate.
+
+## [PR2](https://github.com/pr2)
+
+**pr2** is maintained by Open Robotics and uses real-time features for its controller.
