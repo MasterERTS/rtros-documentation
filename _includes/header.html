@@ -6,7 +6,7 @@
 		</a>
 		{% elsif site.theme_settings.avatar %}
 		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
+			<img class="avatar" src="/img/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 		{% endif %}
 		<h1 class="site-title">
@@ -15,35 +15,17 @@
 	</div>
 	<nav class="site-nav">
 		<ul>
-			{% if site.theme_settings.site_navigation_sort %}
-				{% assign site_pages = site.pages | sort: site.theme_settings.site_navigation_sort %}
-			{% else %}
-				{% assign site_pages = site.pages %}
-			{% endif %}
-			{% for page in site_pages %}
+			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
 			<li>
-				<a class="page-link" href="{{ page.url | relative_url }}">
+				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
 					{{ page.title }}
 				</a>
 			</li>
 			{% endif %}
 			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled  -->
+			<!-- Social icons from Font Awesome, if enabled -->
 			{% include icons.html %}
-
-            <!-- Search bar -->
-            {% if site.theme_settings.search %}
-            <li>
-            <form action="{{ site.baseurl }}/search.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="Search" class="">
-                <button type="submit" class="">
-                    <i class="fa fa-fw fa-search"></i>
-                </button>
-            </form>
-            </li>
-            {% endif %}
 		</ul>
 	</nav>
-
 </header>
