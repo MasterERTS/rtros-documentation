@@ -11,18 +11,22 @@ layout: default
   {% endif %}
 
   <div class="work">
-    <h2>My Work</h2>
+    <h2>Projects</h2>
     {% for project in site.portfolio limit:3 %}
         <li>
           <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-          <a href="{{ project.url }}">{{ project.title }}</a>
+          <a href="{{ project.url | prepend: site.baseurl }}">
+            <h3>
+            {{ project.title }}
+            </h3>
+          </a>
           <p>{{ project.short-description }}</p>
         </li>
     {% endfor %}
   </div>
 
   <div class="posts">
-    <h2>My Posts</h2>
+    <h2>Posts</h2>
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
