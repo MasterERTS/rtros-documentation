@@ -14,3 +14,16 @@ Contains a set of tools that can be used from a hard realtime thread, without br
 * Bug / feature tracker: https://github.comros-controls/realtime_tools/issues
 * Source: git https://github.com/ros-controlsrealtime_tools.git (branch: melodic-devel)
 
+## [rtt_lwr](https://rtt-lwr.readthedocs.io/en/latest/)
+
+**rtt_lwr** is a set of components for controlling the Kuka LWR and IIWA at 1Khz. It relies on OROCOS for the real-time part, but also interfaces with ROS so we can use Rviz, MoveIt, ros-control etc.
+
+It has been designed so researchers/Phd Students/Engineers at ISIR can develop generic controllers for light weight robots and seemlessly switch between simulation/real hardware without the need to recompile their code.
+
+* Maintainer status: not maintained
+* Maintainers: TBD
+* Author: TBD
+* Licence: TBD
+* Bug / feature tracker: None
+* Source: https://github.com/orocos/rtt_ros_control.git
+
