@@ -8,12 +8,12 @@ theme_settings:
   title: ROS and Real-Time Capabilities
   avatar: 
   gravatar: # Email MD5 hash
-  description: "Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai" # used by search engines
+  description: "An academic project from Ecole Centrale de Nantes by Sampreet Sarkar and Erwin Lejeune. About ROS, Linux/Xenomai and Real-Time Systems" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Bringing Real-Time Capabilities to ROS.</h1>
-     <p>An academic project from Ecole Centrale de Nantes by Sampreet Sarkar and Erwin Lejeune.</p>
+     <p>Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
