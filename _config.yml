@@ -8,7 +8,7 @@ theme_settings:
   title: ROS and Real-Time Capabilities
   avatar: 
   gravatar: # Email MD5 hash
-  description: "A website dedicated to our academic project" # used by search engines
+  description: "Exploring the options on how to implement a real-time ROS Node using ROS + Linux/Xenomai" # used by search engines
 
   # Header and footer text
   header_text: >
