@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Real-Time ROS Currated List
+feature-img: "img/sample_feature_img_3.png"
 ---
 
 A good way to start a project is doing a state-of-the-art. Here, we decided to go for a currated list of ROS packages that have real-time features, whether soft, firm or hard. We will not list the ROS2 packages with real-time features, since ROS2 was meant to have at least soft real-time capabilities from day one.
