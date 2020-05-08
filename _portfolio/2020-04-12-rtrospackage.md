@@ -2,7 +2,7 @@
 layout: post
 title: Real-Time ROS ?
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/ros-logo.png"
+thumbnail-path: "logopage.png"
 short-description: Testing a ROS package with real-time features!
 ---
 
