@@ -2,7 +2,7 @@
 layout: post
 title: HRT Navigation
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/ros-logo.png"
+thumbnail-path: "img/planning_logo.png"
 short-description: Our very own package with hard real-time constraints.
 
 ---
