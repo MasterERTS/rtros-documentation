@@ -70,3 +70,11 @@ Basically, it implements a real-time clock consistent with ROS in order to help 
 * License: BSD
 * Bug / feature tracker: https://github.comros-controls/realtime_tools/issues
 * Source: git https://github.com/ros-controlsrealtime_tools.git (branch: melodic-devel)
+
+# ROS2 and Real Time
+
+Real-time computing is a key feature of many robotics systems, particularly safety- and mission-critical applications such as autonomous vehicles, spacecrafts, and industrial manufacturing. We are designing and prototyping ROS 2 with real-time performance constraints in mind, since this is a requirement that was not considered in the early stages of ROS 1 and it is now intractable to refactor ROS 1 to be real-time friendly.
+
+The official way to build a real-time linux to use the real-time features of ROS2 is to patch a vanilla kernel with RTPREEMPT Linux.
+
+[Design Guidelines, Real Time ROS2](http://design.ros2.org/articles/realtime_background.html#memory-management)
