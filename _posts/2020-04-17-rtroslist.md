@@ -77,4 +77,4 @@ Real-time computing is a key feature of many robotics systems, particularly safe
 
 The official way to build a real-time linux to use the real-time features of ROS2 is to patch a vanilla kernel with RTPREEMPT Linux.
 
-[Design Guidelines, RealTime ROS2](http://design.ros2.org/articles/realtime_background.html#memory-management)
+[Design Guidelines, Real Time ROS2](http://design.ros2.org/articles/realtime_background.html#memory-management)
