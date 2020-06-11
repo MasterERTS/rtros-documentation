@@ -7,14 +7,14 @@
 <p align="center">
   Exploring the options on how to implement a real-time ROS Node using <b>ROS + Linux/Xenomai</b>
   <br />
-  <a href="https://github.com/master-coro/rtros-management"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/mastererts/rtros-management"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://master-coro.github.io/rtros-management/">View Demo</a>
+  <a href="https://mastererts.github.io/rtros-management/">View Demo</a>
   ·
-  <a href="https://github.com/master-coro/rtros-management/issues">Report Bug</a>
+  <a href="https://github.com/mastererts/rtros-management/issues">Report Bug</a>
   ·
-  <a href="https://github.com/master-coro/rtros-management/issues/new">Request Feature</a>
+  <a href="https://github.com/mastererts/rtros-management/issues/new">Request Feature</a>
 </p>
 
 ---
